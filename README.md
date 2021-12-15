@@ -1,1 +1,1 @@
-# terraform-azure-courserasefg
+# terraform-azure-course
